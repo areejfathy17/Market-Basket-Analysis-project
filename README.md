@@ -32,5 +32,5 @@ Each row in the dataset represents a transaction that includes a list of grocery
    - Identified:
      - ✅ **2 strong rules** (high confidence and lift).
      - ⚠️ **2 weak rules** (low confidence or lift).
-     - Explained the reasoning behind their classification.
+
 
